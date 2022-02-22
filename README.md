@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Olá! Eu sou a Gabriel Forster, entuasiasta de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/gabrielforster">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=gabrielforster&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=gabrielforster&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielforster&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
