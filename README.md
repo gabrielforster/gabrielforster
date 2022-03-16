@@ -1,8 +1,8 @@
 # Olá! Eu sou a Gabriel Forster, entuasiasta de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/gabrielforster">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=gabrielforster&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielforster&layout=compact&langs_count=8&theme=react"/>
+  <img height="350px" src="https://github-readme-stats.vercel.app/api?username=gabrielforster&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielforster&layout=compact&langs_count=8&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Forster-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
