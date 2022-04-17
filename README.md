@@ -1,15 +1,15 @@
 # Olá ! 👋
 
-<img align='right' src='./.github/image.jpeg' width='250' padding-left='20'>
+<div>
+  <img align='right' src='./.github/image.jpeg' width='250' padding-left='20'>
 
-<div align='left' text-align='center'>
-Eu sou a Gabriel Forster, tenho 17 anos, sou estudante do ensino médio<br> com curso técnico integrado de desenvolvimento de sistemas.
-<br>
-<br>
-Atualmente estou focado em aprender tecnologias voltadas para o <br>desenvolvimento <strong>Front-end</strong>, área que mais me identifico!
+  <div align='left' text-align='center' styles='white-space: pre;'>
+  Eu sou a Gabriel Forster, tenho 17 anos, sou estudante do ensino médio<br> com curso técnico integrado de desenvolvimento de sistmas.
+  <br>
+  Atualmente estou focado em aprender tecnologias voltadas para o <br>desenvolvimento <strong>Front-end</strong>, área que mais me identifico!
+  </div>
 </div>
-
-<br><br>
+<br><br><br>
 
 # Curiosidades
 
