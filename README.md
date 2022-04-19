@@ -1,5 +1,15 @@
 # Saaaaaaaalve meu caro, eu sou o Gabriel, seja bem-vindo! 👋
 
+```js
+let life = 1;
+
+while (life != 0) {
+  code();
+}
+```
+
+<br>
+
 <div align='center'>
   <div margin-top='20' align="center">
     <!-- <a href="https://github.com/gabrielforster"> -->
