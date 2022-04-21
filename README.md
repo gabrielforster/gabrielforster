@@ -12,7 +12,7 @@ while (life != 0) {
 
 Me chamo Gabriel Forster, tenho 17 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente estágiario desenvolvedor **Front end** na Adapcon.
 
-## 📋 Stack
+### 📋 Stack
 
 <div styles="display: inline-block;">
 <img align="center" alt="Forster-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -25,7 +25,7 @@ Me chamo Gabriel Forster, tenho 17 anos, sou estudante do curso técnico de dese
 
 <br>
 
-## 📫 Contatos
+### 📫 Contatos
 
 <a href="https://instagram.com/gabrielforster_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:contatogabrielrochaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
