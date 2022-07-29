@@ -9,7 +9,7 @@ while (life != 0) {
 ```
 
 
-Me chamo Gabriel Forster, tenho 17 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente estágiario desenvolvedor **Front end** na Adapcon.
+Me chamo Gabriel Forster, tenho 18 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente estágiario desenvolvedor **Front end** na Adapcon.
 
 ### 📋 Stack
 
