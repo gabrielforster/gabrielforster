@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-Me chamo Gabriel Forster, tenho 18 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente estágiario desenvolvedor **Frontend** na Adapcon.
+Me chamo Gabriel Forster, tenho 18 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente desenvolvedor Frontend na Adapcon.
 
 ### 📋 Stack
 
