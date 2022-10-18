@@ -7,6 +7,7 @@ Currently working at [Adapcon](https://github.com/adapcon)
 
 ### 📋 Stack
 
+<div styles="display: inline-block">
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="typescript-logo" height="20" />
 <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=FCDC00" alt="javascript-logo" height="20" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="NodaJS-logo" heigth="20"/>
@@ -17,6 +18,7 @@ Currently working at [Adapcon](https://github.com/adapcon)
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass-logo" height="20" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL-logo" height="20" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=4CA449" alt="Mongodb-logo" height="20" />
+</div>
 
 
 <div align="center">
