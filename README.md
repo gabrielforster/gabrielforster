@@ -1,26 +1,23 @@
 # 👋 Hey there!
 
-Me chamo Gabriel Forster, tenho 18 anos, sou estudante do curso técnico de desenvolvimento de sistemas (SENAI / Jaraguá do Sul) e atualmente desenvolvedor Frontend na Adapcon.
+Hi, I'm Gabriel, 18.
+I am a mainly frontend dev passionated by code since I was 16.
+
+Currently working at [Adapcon](https://github.com/adapcon)
 
 ### 📋 Stack
 
-<div styles="display: inline-block;">
-<img align="center" alt="Forster-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Forster-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Forster-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Forster-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="center" alt="Forster-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="center" alt="Forster-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="center" alt="Forster-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
-<img align="center" alt="Forster-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt"Forster-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-          
-          
-</div>
+<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="typescript-logo" height="20" />
+<img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=FCDC00" alt="javascript-logo" height="20" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="NodaJS-logo" heigth="20"/>
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS-logo" height="20" />
+<img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React-JS-logo" height="20" />
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next-JS-logo" height="20" />
+<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=38BDF8" alt="Tailwind-logo" height="20" />
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass-logo" height="20" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL-logo" height="20" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=4CA449" alt="Mongodb-logo" height="20" />
 
-<br>
-
-<a href="mailto:contatogabrielrochaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforster&show_icons=true&include_all_commits=true&count_private=true" />
