@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 Hi, I'm Gabriel, 18.
-I am a mainly frontend dev passionated by code since I was 16.
+I am a fullstack dev passionated by code since I was 16.
 
 Currently working at [Adapcon](https://github.com/adapcon)
 
