@@ -11,6 +11,7 @@ Currently working at [Adapcon](https://github.com/adapcon)
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="typescript-logo" height="20" />
 <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=FCDC00" alt="javascript-logo" height="20" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="NodaJS-logo" heigth="20"/>
+<img src="https://img.shields.io/badge/Serverless-282C34?logo=serverless" alt="Serverless-logo" height="20" />
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS-logo" height="20" />
 <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React-JS-logo" height="20" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next-JS-logo" height="20" />
