@@ -1,9 +1,10 @@
 # 👋 Hey there!
 
-Hi, I'm Gabriel, 18.
-I am a fullstack dev passionated by code since I was 16.
+#### Hi, I'm Gabriel, 18. I am a fullstack dev passionated by code since I was 16.
 
-Currently working at [Adapcon](https://github.com/adapcon) and studying Software Engineering at [Catolica](https://www.catolicasc.org.br/) at Jaragua do Sul campus
+#### 🔨 Currently working at [Adapcon](https://github.com/adapcon) and studying Software Engineering at [Catolica](https://www.catolicasc.org.br/) at Jaragua do Sul campus
+
+#### 📖 Learning React-Native...
 
 ### 📋 Stack
 
