@@ -4,7 +4,7 @@
 
 #### 🔨 Currently working at [Adapcon](https://github.com/adapcon) and studying Software Engineering at [Catolica](https://www.catolicasc.org.br/) at Jaragua do Sul campus
 
-#### 📖 Learning [React-Native](https://reactnative.dev/) and [GO](https://go.dev)...
+#### 📖 Learning/Interested in [React-Native](https://reactnative.dev/), [GO](https://go.dev) and [Rust](https://www.rust-lang.org/)
 
 ### 📋 Stack
 
