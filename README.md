@@ -19,4 +19,5 @@
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL-logo" height="20" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=4CA449" alt="Mongodb-logo" height="20" />
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=007d9c" alt="Go-lang-logo" height="20" />
+<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=ef4900" alt="Rust-lang-logo" height="20" />
 </div>
