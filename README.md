@@ -4,12 +4,11 @@ Just a guy trying to make daily things easier, build helpful projects, and under
 
 ```bash
 echo $ABOUT_ME
-```
-
-```
+""""""
 2+ years of experience in software development
 Software Engineer student 3/8
 Interested in performant software
 Linux enthusiast
 Vim enthusiast
+""""""
 ```
