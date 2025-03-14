@@ -1,6 +1,13 @@
 ### Gabriel Forster Rocha
 
-Helping people and companies by delivering good software
+Ajudando pessoas e empresas com software de qualidade.
+Fundador [galvi.tech](https://galvi.tech)
+
+---
+*en-us*
+
+Helping people and companies by delivering good software.
+Founder [galvi.tech](https://galvi.tech)
 
 ```bash
 echo $ABOUT_ME
